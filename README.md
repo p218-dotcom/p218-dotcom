@@ -4,10 +4,6 @@
 
 ###
 
-<h1 align="center">Sup👋</h1>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -33,14 +29,6 @@
 ###
 
 <p align="center">My pfp :)</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p218-dotcom/p218-dotcom/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p218-dotcom/p218-dotcom/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/p218-dotcom/p218-dotcom/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
